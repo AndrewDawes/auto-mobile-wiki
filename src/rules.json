@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "https://\\1.m.wikipedia.org/\\2"
+      }
+    },
+    "condition": {
+      "regexFilter": "https://([a-z]{2})\\.wikipedia.org/(.*)",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  }
+]
