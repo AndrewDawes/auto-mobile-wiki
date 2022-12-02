@@ -1,5 +1,8 @@
-# auto-mobile-wiki
+# Auto Mobile Wiki
 A Chrome plugin to automatically switch you to the mobile version of Wikipedia.
+
+### Where?
+The [Chrome Web Store](https://chrome.google.com/webstore/detail/auto-mobile-wiki/agpoipkfbifkdhdghbjilapmbgdedomn)
 
 ### Why?
 Because the desktop version is so wide, especially on big screens. It's far easier to read articles on the mobile version.
